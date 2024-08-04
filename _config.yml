@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Ark Box
-email:bowesdillon1@gmail.com
+email: bowesdillon1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website!
 twitter_username: N/A
