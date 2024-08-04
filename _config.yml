@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Dillon Bowes"
-  avatar : "/assets/images/photo of em.jpg"
+  avatar : "assets/images/picture of em.PNG"
   bio    : "I don't think anyone reads these"
   links:
     - label: "Website"
