@@ -11,4 +11,4 @@ During my internship at NIWC PAC, I honed my skills in data analysis and economi
 
 I actively volunteer at Rady’s Children’s Hospital and the San Diego Food Bank, giving back to the community and gaining valuable leadership skills. I also mentored incoming freshmen at UCSD, guiding them in academic and professional development.
 
-Outside of my professional pursuits, I am passionate about music, playing guitar and piano, and DJing and producing music. I enjoy skateboarding, surfing, and video editing, maintaining a well-rounded work-life balance. My diverse interests and experiences reflect my ability to manage projects, work creatively, and pursue continuous growth
+Outside of my professional pursuits, I am passionate about music, playing guitar and piano, and DJing and producing music. I enjoy skateboarding, surfing, and video editing, maintaining a well-rounded work-life balance. My diverse interests and experiences reflect my ability to manage projects, work creatively, and pursue continuous growth.
