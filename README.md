@@ -1,4 +1,4 @@
-# Minimal Mistakes remote theme starter
+# The Ark Box-Website
 
 [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate)(https://github.com/mmistakes/minimal-mistakes).
 
