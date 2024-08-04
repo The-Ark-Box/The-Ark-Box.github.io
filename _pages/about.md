@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am Dillon Bowes, a driven and dedicated individual with a strong foundation in economics and data science, currently studying at UCSD with a recent quarter GPA of 3.45. My technical expertise includes statistical software, data visualization, and machine learning, and I am proficient in Excel, PowerPoint, and various collaboration tools.
+
+During my internship at NIWC PAC, I honed my skills in data analysis and economic modeling while managing workflow and deliverables in a fast-paced business environment. I led a project on robotics, gathering and analyzing data through Inventor CAD. At WELK Resorts, I thrived in a technical and mechanical role, swiftly addressing issues and improving company efficiency. My contributions were recognized multiple times, up to the Vice-President level.
+
+I actively volunteer at Rady’s Children’s Hospital and the San Diego Food Bank, giving back to the community and gaining valuable leadership skills. I also mentored incoming freshmen at UCSD, guiding them in academic and professional development.
+
+Outside of my professional pursuits, I am passionate about music, playing guitar and piano, and DJing and producing music. I enjoy skateboarding, surfing, and video editing, maintaining a well-rounded work-life balance. My diverse interests and experiences reflect my ability to manage projects, work creatively, and pursue continuous growth
